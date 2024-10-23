@@ -1,0 +1,12 @@
+my_string=str("Ronaldo")
+my_int=int(7)
+my_float=float(6.1)
+my_bool=bool(True)
+my_bool2=bool(False)
+my_list=list(['Ronaldo','Leila','Valary'])
+my_tuple=tuple(("Ronaldo","Leila","Valary"))
+my_set={"Ronaldo","Leila","Vil"}
+my_dictionary={"Kobodo":"Rodi","Pala":"4500"}
+print(type(my_string))
+print(25>2)
+print(10<1)
